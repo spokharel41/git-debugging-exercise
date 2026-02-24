@@ -1,6 +1,0 @@
-TODO List
-=========
-
-- [X] Complete feature A
-- [ ] Review feature B
-- [ ] Update documentation
